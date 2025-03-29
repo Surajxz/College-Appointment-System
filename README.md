@@ -1,4 +1,4 @@
-<img src="" alt="Responsive image" class="responsive-img">
+<img src="https://github.com/Surajxz/College-Appointment-System/blob/main/Screenshot_29-3-2025_102447_.jpeg" alt="Responsive image" class="responsive-img">
 
 College Appointment System - Project Report
 
