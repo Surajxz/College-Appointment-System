@@ -1,5 +1,4 @@
-
-<img width="1158" alt="image" src="https://pin.it/6zh9ukmit">
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=870320696747672571" height="549" width="600" frameborder="0" scrolling="no" ></iframe>
 https://pin.it/6zh9ukmit
 
 College Appointment System - Project Report
