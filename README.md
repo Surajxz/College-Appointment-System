@@ -1,6 +1,6 @@
 
-<img width="1158" alt="image" src="https://i.pinimg.com/originals/2e/8c/aa/2e8caaa6f42fa70c13644efbac703faa.png">
-
+<img width="1158" alt="image" src="[https://i.pinimg.com/originals/2e/8c/aa/2e8caaa6f42fa70c13644efbac703faa.png](https://pin.it/6zh9ukmit)">
+https://pin.it/6zh9ukmit
 
 College Appointment System - Project Report
 
