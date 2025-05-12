@@ -4,26 +4,26 @@
 📚 College Appointment System - Backend
 * This is the backend service for a College Appointment System where:
 
-*Professors can create and delete appointment slots.
+* Professors can create and delete appointment slots.
 
-*Professors can also delete student bookings.
+* Professors can also delete student bookings.
 
-*Students can view available slots, book appointments, and check their booking status.
+* Students can view available slots, book appointments, and check their booking status.
 
-*Built with Node.js, Express, and MongoDB.
+* Built with Node.js, Express, and MongoDB.
 
 🚀 Features
-*👨‍🏫 Professors
-*Create available appointment slots
+* 👨‍🏫 Professors
+* Create available appointment slots
 
-*Delete slots or cancel a student's booked appointment
+* Delete slots or cancel a student's booked appointment
 
-*👨‍🎓 Students
-*View available appointment slots
+* 👨‍🎓 Students
+* View available appointment slots
 
-*Book an appointment with a professor
+* Book an appointment with a professor
 
-*Check the status of their booked appointments
+* Check the status of their booked appointments
 
 🛠️ Tech Stack
 Node.js with Express
